@@ -38,7 +38,7 @@ with st.form("student_form"):
         placeholder="Enter your name"
     )
     usn = st.text_input(
-        "USN / Roll Number",
+        "Roll Number",
         placeholder="Enter roll number"
     )
     department = st.selectbox(
