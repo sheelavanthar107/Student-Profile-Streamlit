@@ -61,6 +61,6 @@ if submit:
         st.success("Profile Created Successfully!")
         st.subheader("Student Profile")
         st.write("**Student Name:**", name)
-        st.write("** Roll Number:**", roll)
+        st.write("** Roll Number:**", Roll)
         st.write("**Department:**", department)
         st.write("**Current Year:**", year)
